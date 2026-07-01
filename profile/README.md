@@ -2,7 +2,7 @@
 
 **Serverless Git for large files.**
 
-Crab is a Git remote helper for teams working with models, datasets, game
+Crab is a serverless Git remote storage solution for teams working with models, datasets, game
 assets, media, and other large files. Repositories live directly in cloud object
 storage such as S3, Google Cloud Storage, or Azure Blob Storage, with no servers,
 databases, or LFS endpoints to operate.
